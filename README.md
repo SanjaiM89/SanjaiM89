@@ -1,47 +1,26 @@
-  Sanjai M - GitHub README  \* { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Courier New', monospace; } body { background: #0d1117; color: #c9d1d9; padding: 2rem; line-height: 1.6; max-width: 900px; margin: 0 auto; } .terminal { background: #0d1117; border-radius: 8px; padding: 2rem; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); border: 1px solid #30363d; } .terminal-header { display: flex; justify-content: space-between; align-items: center; padding: 0.5rem 1rem; background: #161b22; border-top-left-radius: 8px; border-top-right-radius: 8px; margin: -2rem -2rem 2rem -2rem; border-bottom: 1px solid #30363d; } .terminal-title { font-size: 1rem; font-weight: 500; } .terminal-controls { display: flex; } .control { width: 12px; height: 12px; border-radius: 50%; margin-left: 8px; } .close { background: #ff5f56; } .minimize { background: #ffbd2e; } .maximize { background: #27c93f; } .prompt { color: #58a6ff; margin-right: 8px; } .command { margin-bottom: 1.5rem; display: flex; align-items: flex-start; } .command-input { color: #f0f6fc; background: transparent; border: none; outline: none; width: 100%; font-family: 'Courier New', monospace; font-size: 1rem; } .command-output { margin: 0.5rem 0 1.5rem 2rem; padding-left: 1rem; border-left: 2px solid #58a6ff; } .highlight { color: #58a6ff; font-weight: bold; } .accent { color: #ff7b72; } .success { color: #3fb950; } .warning { color: #d29922; } .info { color: #a5d6ff; } .section-title { font-size: 1.2rem; margin: 2rem 0 1rem; border-bottom: 1px solid #30363d; padding-bottom: 0.5rem; color: #58a6ff; } .skills-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 1rem; margin: 1rem 0; } .skill-item { background: #161b22; padding: 0.5rem; border-radius: 4px; text-align: center; border: 1px solid #30363d; transition: transform 0.2s; } .skill-item:hover { transform: translateY(-3px); border-color: #58a6ff; } .social-links { display: flex; gap: 1rem; margin: 1rem 0; } .social-link { color: #c9d1d9; text-decoration: none; padding: 0.5rem 1rem; border: 1px solid #30363d; border-radius: 4px; transition: all 0.2s; display: flex; align-items: center; gap: 0.5rem; } .social-link:hover { background: #58a6ff; color: #0d1117; } .blink { animation: blink 1s infinite; } @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } } @media (max-width: 768px) { body { padding: 1rem; } .terminal { padding: 1rem; } .skills-grid { grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); } .social-links { flex-direction: column; } }
+# 💫 About Me:
+I am a computer science student currently in y PreFinal Year
 
-sanjaim89@github:~
 
-sanjaim89@github:~$ cat about\_me.txt
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/sanjaim89) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjai@myyahoo.com) 
 
-Hello! I'm Sanjai M, a passionate developer with interest in various technologies.
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SanjaiM89&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SanjaiM89&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjaiM89&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🔭 I’m currently working on Online compilers
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SanjaiM89&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-🌱 I’m currently learning Machine Learning
 
-👯 I’m looking to collaborate on Linux Kernel development
 
-📫 How to reach me: sanjai@myyahoo.com
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SanjaiM89&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-sanjaim89@github:~$ ls projects/
+---
+[![](https://visitcount.itsvg.in/api?id=SanjaiM89&icon=0&color=0)](https://visitcount.itsvg.in)
 
-FitXP - A fitness application
-
-sanjaim89@github:~$ connect --social
-
-Connect with me:
-
-[GitHub](https://github.com/SanjaiM89) [LinkedIn](https://linkedin.com/in/sanjaim89)
-
-sanjaim89@github:~$ show skills
-
-Languages and Tools:
-
-C++
-
-PythonFastAPI
-
-Docker
-
-Linux
-
-MySQL
-
-React
-
-Rust
-
-sanjaim89@github:~$ \_
-
-// Simple typewriter effect for the last command line document.addEventListener('DOMContentLoaded', function() { const blinkElement = document.querySelector('.blink'); setInterval(() => { blinkElement.style.opacity = blinkElement.style.opacity === '0' ? '1' : '0'; }, 500); });
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
