@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student currently in y PreFinal Year
+I am a computer science student currently in my PreFinal Year
 
 
 ## 🌐 Socials:
