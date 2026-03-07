@@ -8,6 +8,9 @@ My Codeberg Profile - https://codeberg.org/sanjaim89
 
 I run my own [Forgejo](https://forgejo.org) instance for personal and experimental projects.
 
+My Profile - https://sanjai-1.tailb4d16f.ts.net/sanjaim89
+
+Access the Platform here
 **➜ [sanjai-1.tailb4d16f.ts.net](https://sanjai-1.tailb4d16f.ts.net)**
 
 > ⚠️ **Warning:** This is a personal homelab server.
